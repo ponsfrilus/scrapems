@@ -1,7 +1,7 @@
 const fs = require('fs')
 let converter = require('json-2-csv')
 
-let json2csvCallback = function (err, csv) {
+let json2csvCallback = (err, csv) => {
     if (err) throw err
     console.log(csv)
 };
