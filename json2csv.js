@@ -14,5 +14,4 @@ const loadData = (path) => {
     return false
   }
 }
-console.log('Writing data.csv file')
 converter.json2csv(JSON.parse(loadData('./data.json')), json2csvCallback)

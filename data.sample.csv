@@ -1,4 +1,3 @@
-Writing data.csv file
 id,url,name,address1,address2,phone,fax,imgLink,imgMapLink,email,direction,lon,lat
 0,https://www.heviva.ch/institutions/detail/ems/5-de-coeur-cat.html,"5 DE COEUR, CAT",Place de la Croix-Blanche 3,1066 Epalinges,021.784.10.54,021.784.10.54,https://www.heviva.ch/typo3temp/assets/_processed_/e/4/csm_5_DE_COEUR_70928363da.png,https://www.heviva.ch/typo3temp/assets/_processed_/2/b/csm_5-DE-COEUR_CAT_6822c35261.jpg,cat.epalinges@montcalme.ch,Madalina Martin,6.670779406914439,46.5479847
 1,https://www.heviva.ch/institutions/detail/ems/alexandra-cpse.html,ALEXANDRA CPSE,CHP Alexandra. Route Fin-du-Craux 47,1822 Chernex,021/964.32.78,021/964.32.55,https://www.heviva.ch/typo3temp/assets/_processed_/9/2/csm_ALEXANDRA_EXT_S_01_1a4dc3912d.jpg,https://www.heviva.ch/typo3temp/assets/_processed_/b/6/csm_ALEXANDRA-CPSE_ae15cf164e.jpg,chp@cpsealexandra.ch,François Ayer,undefined,

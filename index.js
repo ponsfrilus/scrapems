@@ -76,7 +76,7 @@ const scrapeGeoData = async (q) => {
 
 const storeData = (data, path) => {
   try {
-    fs.writeFileSync(path, JSON.stringify(data))
+    fs.writeFileSync(path, JSON.stringify(data, null, 4))
   } catch (err) {
     console.error(err)
   }
