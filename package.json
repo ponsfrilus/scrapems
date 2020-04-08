@@ -4,12 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
+    "csv": "node json2csv.js > data.csv",
+    "all": "node index.js && node json2csv.js > data.csv",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ponsfrilus <ponsfrilus@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3"
+    "cheerio": "^1.0.0-rc.3",
+    "json-2-csv": "^3.6.2"
   }
 }
